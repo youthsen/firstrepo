@@ -1,0 +1,4 @@
+How to Configure multiple Ansible master / controlling machine.
+
+How to maintain same configuration across all servers all the time like how puppet is doing, but this is not available in Ansible.
+
